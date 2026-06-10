@@ -1,7 +1,7 @@
-id = "helion"
+id = "helion-theme"
 name = "Helion"
 version = "0.0.1"
 schema_version = 1
 authors = ["Brandon Gandy"]
-description = ""
+description = "A mid-contrast color palette inspired by Solarized, as well as colors that faded away."
 repository = "https://github.com/brandongandy/helion.zed"
