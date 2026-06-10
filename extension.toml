@@ -1,0 +1,7 @@
+id = "helion"
+name = "Helion"
+version = "0.0.1"
+schema_version = 1
+authors = ["Brandon Gandy"]
+description = ""
+repository = "https://github.com/brandongandy/helion.zed"
